@@ -1,1 +1,1 @@
-# This is hackz-hackathon team
+# This is hackz-hackathon organization
